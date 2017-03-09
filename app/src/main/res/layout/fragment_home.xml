@@ -6,5 +6,7 @@
 
     <include
         android:id="@+id/title"
-        layout="@layout/title"/>
+        layout="@layout/title"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
 </LinearLayout>
